@@ -122,12 +122,19 @@
 
 
 .foto > img{
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
     border-radius: 400px;
     margin-left: 100px;
 }
 
+.animasi-fp:hover{
+    width: 500px;
+    height: 500px;
+    border-radius: 400px;
+    margin-left: 100px;
+    transition: all .7s ease-in-out;
+}
 
 .tengah{
     display: flex;
