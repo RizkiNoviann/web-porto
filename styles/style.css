@@ -165,6 +165,7 @@
     flex-wrap: wrap;
     margin: 5px;
     align-items: center;
+    transition: all .3s ease-in-out;
 }
 
 .link > li > a > img{
