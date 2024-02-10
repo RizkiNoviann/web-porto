@@ -158,6 +158,15 @@
     list-style-type: none;
 }
 
+.link > li > a > img:hover{
+    margin-top: 20px;
+    width: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5px;
+    align-items: center;
+}
+
 .link > li > a > img{
     margin-top: 20px;
     width: 45px;
